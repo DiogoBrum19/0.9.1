@@ -1,122 +1,122 @@
 body{
-  display: flex;
-  justify-content: center;
+display: flex;
+justify-content: center;
 }
 .cabecalho{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+display: flex;
+justify-content: space-between;
+align-items: center;
 
 }
 .conteiner{
-  width: 400px;
-  height: 460px;  
- border-radius: 10px;
- padding-right: 6px; 
- background-color: black;
+width: 400px;
+height: 460px;  
+border-radius: 10px;
+padding-right: 6px; 
+background-color: black;
 }
 h1{
-  color: white;
+color: white;
 }
 .mensagens{
-  color: white;
+color: white;
 }
 button{
-  width: 20px;
-  border: none;
-  height: 25px;
-  background-color: transparent;
-  fill: white;
+width: 20px;
+border: none;
+height: 25px;
+background-color: transparent;
+fill: white;
 }
 .recebida{
-   position: relative;
-  align-items: center;
-    text-align: left;
-    padding-right: 5px;
-    padding-left: 5px;
-    display: flex;
-    margin: 5px;
-     margin-right: auto;
-     width: fit-content;
-     background-color: rgb(43, 41, 41);
-     border-radius: 12px;
+position: relative;
+align-items: center;
+text-align: left;
+padding-right: 5px;
+padding-left: 5px;
+display: flex;
+margin: 5px;
+margin-right: auto;
+width: fit-content;
+background-color: rgb(43, 41, 41);
+border-radius: 12px;
 }
 .recebida2{
-  position: relative;
-  align-items: center;
-    text-align: left;
-    padding-right: 5px;
-    padding-left: 5px;
-    display: flex;
-    margin: 5px;
-   margin-right: auto;
-   width: fit-content;
-   background-color: rgb(43, 41, 41);
-   border-radius: 12px;
+position: relative;
+align-items: center;
+text-align: left;
+padding-right: 5px;
+padding-left: 5px;
+display: flex;
+margin: 5px;
+margin-right: auto;
+width: fit-content;
+background-color: rgb(43, 41, 41);
+border-radius: 12px;
 }
 
 .enviada{
-    position: relative;
-  align-items: center;
-    text-align: left;
-    padding-right: 5px;
-    padding-left: 5px;
-    display: flex;
-    margin: 5px;
-   margin-left: auto;
-   width: fit-content;
-   background-color: green;
-   border-radius: 12px;
+position: relative;
+align-items: center;
+text-align: left;
+padding-right: 5px;
+padding-left: 5px;
+display: flex;
+margin: 5px;
+margin-left: auto;
+width: fit-content;
+background-color: green;
+border-radius: 12px;
 
 }
 
 .enviada2{
-    position: relative;
-  align-items: center;
-    text-align: left;
-    padding-right: 5px;
-    padding-left: 5px;
-    display: flex;
-    margin: 5px;
-   margin-left: auto;
-   width: fit-content;
-   background-color: green;
-   border-radius: 12px;
+position: relative;
+align-items: center;
+text-align: left;
+padding-right: 5px;
+padding-left: 5px;
+display: flex;
+margin: 5px;
+margin-left: auto;
+width: fit-content;
+background-color: green;
+border-radius: 12px;
 }
 
 .visto{
-    fill: aqua;
-    position: absolute;
-    bottom: 5px;
-    right: 3px;
+fill: aqua;
+position: absolute;
+bottom: 5px;
+right: 3px;
 }
 .visto2{
 
-  fill: rgb(71, 75, 75);
-  position: absolute;
-  bottom: 1px;
-  right: 5px;
+fill: rgb(71, 75, 75);
+position: absolute;
+bottom: 1px;
+right: 5px;
 }
 .seta{
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  border: none;
+position: absolute;
+top: 5px;
+right: 5px;
+border: none;
 }
 .lida{
-  background-color: rgb(43, 41, 41);
-  fill: rgb(43, 41, 41);
+background-color: rgb(43, 41, 41);
+fill: rgb(43, 41, 41);
 }
 .lida:hover{
-  fill: white;
+fill: white;
 }
   .naolida{
-    background-color: green;
-    fill:green;
+background-color: green;
+fill:green;
   }
   .naolida:hover{
-    fill: white;
+fill: white;
   }
 svg.pontinhos:hover{
-  fill:rgb(59, 9, 236);
+fill:rgb(59, 9, 236);
 }
